@@ -1,4 +1,4 @@
-import { v4 as uuidv4 } from "uuid";
+import { v4 as uuidv4 } from "uuid";// used to uniquely identify an object 
 let COUNTRIES = [
   { name: "Afghanistan", code: "AF" },
   { name: "Åland Islands", code: "AX" },
